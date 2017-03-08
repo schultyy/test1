@@ -1,5 +1,8 @@
 language: ruby
 
+install:
+  - sudo apt-get install cgroup-lite
+
 sudo: false
 
 services: 
