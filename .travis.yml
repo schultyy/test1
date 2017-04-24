@@ -6,11 +6,11 @@ install:
 
 sudo: false
 
-services: 
+services:
   - redis
 
 rvm:
   - '2.1.5'
 
-script: false
+script: true
 # sleep: 2
