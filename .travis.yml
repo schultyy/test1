@@ -16,4 +16,3 @@ rvm:
 
 script:
   - yarn --version
-# sleep: 2
