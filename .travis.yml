@@ -24,3 +24,4 @@ matrix:
     - php: nightly
 
 script: true
+
