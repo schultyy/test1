@@ -4,4 +4,4 @@ node_js:
 
 sudo: false
 dist: trusty
-script: uname -a
+script: true
